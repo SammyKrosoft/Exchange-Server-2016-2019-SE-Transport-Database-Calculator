@@ -2,7 +2,7 @@
 
 See the full article describing this tool on my article on the below link:
 
-[Link to my original article on our former Technet Blogs](https://learn.microsoft.com/en-us/archive/blogs/samdrey/exchange-20132016-sizing-the-transport-storage-disk-space)
+[Link to my original article on our former Technet Blogs](https://learn.microsoft.com/en-us/archive/blogs/samdrey/exchange-20132016-sizing-the-transport-storage-disk-space) *(right-click "Open link in new tab" to stay on this page while checking the other page)*
 
 Sample output:
 
@@ -10,7 +10,7 @@ Sample output:
 
 This complements or helps you triple-check the Transport database (mail.que) size recommendation.
 
-For reference, the Transport Database - Transport Database Space Required is located on "Role Requirements" tab of the [Exchange Calculator](https://www.microsoft.com/en-us/download/details.aspx?id=102123) (v10-7 at the time of writing this article):
+For reference, the Transport Database - Transport Database Space Required is located on "Role Requirements" tab of the [Exchange Calculator](https://www.microsoft.com/en-us/download/details.aspx?id=102123) (v10-7 at the time of writing this article) *(right-click "Open link in new tab" to stay on this page while checking the other page)*:
 
 Sample (not the same inputs used as the above output):
 
