@@ -16,3 +16,6 @@ Sample (not the same inputs used as the above output):
 
 ![image](https://github.com/user-attachments/assets/594855d7-2b31-4d20-a665-9eddee94bc1c)
 
+## Download
+
+Download from this repository - for your convenience, here's the [direct download link](https://github.com/SammyKrosoft/Exchange-Server-2016-2019-SE-Transport-Database-Calculator/raw/refs/heads/main/Exchange%20Calculate%20Transport%20Database%20v1.5.xlsx)
