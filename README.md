@@ -1,6 +1,10 @@
 # Exchange Server 2016/2019/SE Transport Database Calculator
 
+See the full article describing this tool on my article on the below link:
+
 [Link to my original article on our former Technet Blogs](https://learn.microsoft.com/en-us/archive/blogs/samdrey/exchange-20132016-sizing-the-transport-storage-disk-space)
+
+![image](https://github.com/user-attachments/assets/00e9c585-ac65-451d-aa41-4415b41c46fb)
 
 This complements or helps you triple-check the Transport database (mail.que) size recommendation.
 
